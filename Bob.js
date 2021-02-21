@@ -19,7 +19,7 @@ class Bob{
         translate(this.body.position.x, this.body.position.y);
         rotate(angle);
         ellipseMode(RADIUS);
-        fill(6,76,128);
+        fill(160,116,12);
         ellipse( 0, 0,this.radius,this.radius );
         pop();
        
